@@ -1,2 +1,2 @@
 # cleverhouse ph
-my home automation website project
+home automation & security systems website
