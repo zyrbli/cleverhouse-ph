@@ -1,0 +1,44 @@
+ Header/Banner:
+  - Contact Number
+  - Logo
+  - Menu
+
+Footer
+  - Logo & Social Media Links
+     - contact no.
+     - email
+     - fb
+     - instagram
+     - twitter/X
+  - Quick Links      
+     - home 
+     - services
+     - products
+     - clients
+     - get qoute
+     - about us
+  - Newsletter
+
+HOME / LANDING PAGE:
+  -
+  
+SERVICES:
+  - CCTVs Installation.
+  - AUDIO SYSTEMS Installation for Home & Commercial Use.
+  - SOLAR PANEL POWER SYSTEM Installation.
+  - SMART HOME DEVICES Installation & Configuration.
+  - AUTOMATED GATE DESIGN & FABRICATION.
+  - ELECTRICAL WIRING.
+
+PRODUCTS:
+
+GET QOUTE:
+
+CLIENTELES:
+  - RESIDENTIAL
+  - COMMERCIAL
+
+ABOUT US:
+  - MISSION	
+  - VISION
+  - CONTACT INFO
